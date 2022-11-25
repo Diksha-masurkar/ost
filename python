@@ -1,0 +1,8 @@
+program1
+letter=input("input a letter of the alphabet:")
+if letter in ("a","e",i","o")
+printletter,is a vowel")
+elif letter=='y':
+print("sometimes letter y stands for vowel ,sometime stand for consonants")
+else:
+print(letter"is a comsonent")
